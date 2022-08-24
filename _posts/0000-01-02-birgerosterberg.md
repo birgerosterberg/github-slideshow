@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is so hard, my brain is melting above all else, this will lead to destruction of braincells!
 Use the left arrow to go back!
